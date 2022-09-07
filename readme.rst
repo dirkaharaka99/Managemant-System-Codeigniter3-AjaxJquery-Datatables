@@ -1,3 +1,6 @@
+buat folder system
+masukkan folder core, database, fonts, helpers, language, libraries, .htaccess, index.html
+
 ###################
 What is CodeIgniter
 ###################
